@@ -1,5 +1,12 @@
 # Awesome Youtube channels focused on Science
 
+## How to use it?
+
+### Difficuilty
+
+* 🔴 - may require additional knowledge before watching.
+* ⚠️ - hard to understand w/o deep knowledge of topic. 
+
 ## Content
 
 [TOC]
