@@ -1,4 +1,4 @@
-# Awesome Youtube channels focused on Science - ▶️🧪🧬🔬🔭
+# Awesome Youtube channels on Science - ▶️🧪🧬🔬🔭
 
 ## How to use it?
 
