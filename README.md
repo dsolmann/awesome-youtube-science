@@ -19,3 +19,15 @@
 * [Jabrils](https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg) - Different videos on Diffferent topics.
 * [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) - videos all about computers and computer stuff. Sister channel of Numberphile.
 * [Tom Scott](https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A) - TODO
+
+## Chemistry
+
+	* [Periodic Videos](https://www.youtube.com/user/periodicvideos) - ultimate channel for all things chemistry. A video about each element on the periodic table.
+	* [NileRed](https://www.youtube.com/user/TheRedNile) - awesome chemistry experiments in a lab. 
+	* [NurdRage](https://www.youtube.com/user/NurdRage) - channel run by science nerds for science nerds.
+
+## Biology
+
+* [The Thought Emporium](https://www.youtube.com/user/TheChemlife/featured) - open-source science every week
+* [It's Okay To Be Smart](https://www.youtube.com/user/itsokaytobesmart/) by Joe Hanson, Ph.D - TODO description
+
