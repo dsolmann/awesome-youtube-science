@@ -1,2 +1,1 @@
-# awesome-youtube-science
-Yet another "awesome" list
+# Awesome Youtube channels focused on Science
