@@ -8,6 +8,7 @@
 
 * [Kurzgesagt – In a Nutshell](https://www.youtube.com/user/Kurzgesagt) - Videos explaining things with optimistic nihilism.
 * [Cody'sLab](https://www.youtube.com/user/theCodyReeder) - science, bees, and everything else!
+* [ASAPScience]()
 
 ## Math
 
@@ -33,6 +34,18 @@
 
 ## Biology
 
-* [The Thought Emporium](https://www.youtube.com/user/TheChemlife/featured) - open-source science every week
-* [It's Okay To Be Smart](https://www.youtube.com/user/itsokaytobesmart/) by Joe Hanson, Ph.D - TODO description
+* [The Thought Emporium](https://www.youtube.com/user/TheChemlife/featured) - open-source science every week.
+* [It's Okay To Be Smart](https://www.youtube.com/user/itsokaytobesmart/) by Dr. Joe Hanson - TODO description
+
+#### Paleontology
+* [PBS Eons](https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA) - takes you on a journey through the history of life on Earth.
+## Physics
+
+* [Physics Videos by Eugene Khutoryansky](https://www.youtube.com/user/EugeneKhutoryansky) - animations on physics, mathematics, and engineering.
+
+* [PBS Space Time](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g/) with Dr. Matt O'Dowd - our universe explained.
+
+#### Astronomy
+
+* [SciShow Space](https://www.youtube.com/user/scishowspace) - everything from just after the beginning of time to the most recent breaking news in space exploration.
 
