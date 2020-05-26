@@ -4,6 +4,11 @@
 
 [TOC]
 
+## General
+
+* [Kurzgesagt – In a Nutshell](https://www.youtube.com/user/Kurzgesagt) - Videos explaining things with optimistic nihilism.
+* [Cody'sLab](https://www.youtube.com/user/theCodyReeder) - science, bees, and everything else!
+
 ## Math
 
 - [Numberphile](https://www.youtube.com/user/numberphile) - Videos about numbers - it's that simple.
